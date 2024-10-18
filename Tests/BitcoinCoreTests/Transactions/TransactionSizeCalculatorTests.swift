@@ -6,7 +6,6 @@
 //
 
 @testable import BitcoinCore
-import Cuckoo
 import XCTest
 
 class TransactionSizeCalculatorTests: XCTestCase {
